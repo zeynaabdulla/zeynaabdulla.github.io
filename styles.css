@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@300&display=swap');
+
+body {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    text-align: center;
+    background-color: E2E8F3;
+}
+
+header {
+    background-color: E2E8F3;
+}
+
+.navbar {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+.text {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    margin: 300px;
+    margin-top: 0px;
+    margin-bottom: 150px;
+}
+li {
+    display: inline;
+}
+ul {
+    color: black;
+    margin: 0;
+    padding: 0;
+  }
+.projectheader {
+    text-align: center;
+    margin: 400px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.project1 {
+    margin-bottom: 40px;
+}
+
+.project2 {
+    margin-bottom: 40px;
+}
+
+.aboutheader {
+    margin: 400px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.contact {
+    font-size: 15px;
+    color: navy;
+}
+
+pre {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+h1 {
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.project1imgheader {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.project2imgheader {
+    margin: 20px;
+}
+
+.projectdesc {
+    margin: 400px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}

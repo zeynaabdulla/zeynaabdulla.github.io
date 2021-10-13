@@ -35,7 +35,7 @@ ul {
     margin: 0;
     padding: 0;
   }
-.projectheader {
+.projecttitle {
     text-align: center;
     margin: 400px;
     margin-bottom: 0px;
@@ -43,11 +43,12 @@ ul {
 }
 
 .projectContainers {
-    display: inline-flex;
+    display: grid;
 }
+
 .projects {
-    flex: 1;
     margin: 50px;
+    margin-top: 20px;
 }
 
 .aboutheader {
@@ -67,7 +68,6 @@ h1 {
 
 h2 {
     font-size: 50px;
-
 }
 
 a {
@@ -75,17 +75,21 @@ a {
     text-decoration: none;
 }
 
-.project1imgheader {
-    margin-bottom: 50px;
-    margin-top: 50px;
+.projectimages {
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 100px;
 }
 
-.project2imgheader {
-    margin: 20px;
-}
 
 .projectdesc {
-    margin: 400px;
-    margin-top: 25px;
+    margin: 350px;
+    margin-top: 50px;
     margin-bottom: 50px;
+}
+
+.caption {
+    color: gray;
+    font-size: smaller;
+    font-style: italic;
 }

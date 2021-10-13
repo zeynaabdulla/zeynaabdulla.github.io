@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@200&display=swap');
 
 body {
-    font-family: 'Urbanist', sans-serif;
+    font-family: 'Kaisei HarunoUmi', sans-serif;
     text-align: center;
     background-color: E2E8F3;
 }
@@ -41,17 +41,17 @@ ul {
     margin-top: 0px;
 }
 
-.project1 {
+.projectContainers {
     margin: 450px;
     margin-top: 40px;
     margin-bottom: 40px;
-    
+}
+.project1 {
+    display: inline-block;
 }
 
 .project2 {
-    margin: 450px;
-    margin-top: 40px;
-    margin-bottom: 40px;
+    display: inline-block;
 }
 
 .aboutheader {

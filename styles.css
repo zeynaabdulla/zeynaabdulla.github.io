@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;700&display=swap');
 
 body {
-    font-family: 'Kaisei HarunoUmi', sans-serif,;
+    font-family: 'Kaisei HarunoUmi', serif;
+    font-weight: 700;
     text-align: center;
     background-color: E2E8F3;
 }
@@ -36,6 +37,7 @@ ul {
   }
 .projecttitle {
     text-align: center;
+    font-weight: 900;
     margin: 400px;
     margin-bottom: 0px;
     margin-top: 0px;
